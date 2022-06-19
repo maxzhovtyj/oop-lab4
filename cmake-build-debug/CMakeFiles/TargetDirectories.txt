@@ -1,0 +1,3 @@
+/Users/maksymzhovtaniuk/Desktop/Univer/ООП-2/oop-lab4/cmake-build-debug/CMakeFiles/oop_lab4.dir
+/Users/maksymzhovtaniuk/Desktop/Univer/ООП-2/oop-lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maksymzhovtaniuk/Desktop/Univer/ООП-2/oop-lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
